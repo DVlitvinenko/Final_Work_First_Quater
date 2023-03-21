@@ -34,7 +34,7 @@
             return result;
         }
 
-        public static string[] NewArrayFillingOld(string []array, int min = 0, int max = 3)
+        public static string[] NewArrayFillingOld(string []array, int min = 0, int max = 4)
         {
             string[] resultArray = CreateArray(new Random().Next(min, max)); 
             int size = resultArray.Length;
