@@ -19,7 +19,7 @@
             for (int i = 0; i < size; i++)
             {
                 Console.Write($"Введите элемент массива номер {i+1}: ");
-                array[i] = Console.ReadLine();
+                array[i] = $"{Console.ReadLine()}";
             }
         }
 
