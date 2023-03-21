@@ -10,8 +10,10 @@
 6. Программа завершает работу при нажатии любой клавиши после приглашения к вводу.
 
 
-Методы программы расположены по пути Final_Work_First_Quater/FinalWorkFirstQuater/MetodsForProgramm/Metods.cs /
+Методы программы расположены по пути:
+Final_Work_First_Quater/FinalWorkFirstQuater/MetodsForProgramm/Metods.cs /
 
-Програм а расположена по пути FFinal_Work_First_Quater/FinalWorkFirstQuater/FinalWorkFirstQuater/Program.cs /
+Програм а расположена по пути:
+FFinal_Work_First_Quater/FinalWorkFirstQuater/FinalWorkFirstQuater/Program.cs /
 
 Блок-схема решения в корневой папке репозитория Final_Work_First_Quater/Блок-Схема.png
