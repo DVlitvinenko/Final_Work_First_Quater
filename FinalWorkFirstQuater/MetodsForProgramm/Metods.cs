@@ -41,7 +41,6 @@
             for(int i = 0; i<size;i++)
             {
                 resultArray[i] = array[i];
-            
             }
             return resultArray;
         }
