@@ -18,7 +18,7 @@ Final_Work_First_Quater/FinalWorkFirstQuater/MetodsForProgramm/Metods.cs /
 
 Программа расположена по пути:
 
-FFinal_Work_First_Quater/FinalWorkFirstQuater/FinalWorkFirstQuater/Program.cs /
+Final_Work_First_Quater/FinalWorkFirstQuater/FinalWorkFirstQuater/Program.cs /
 
 
 Блок-схема решения в корневой папке репозитория Final_Work_First_Quater/Блок-Схема.png
