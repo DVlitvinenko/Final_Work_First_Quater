@@ -16,7 +16,7 @@
 Final_Work_First_Quater/FinalWorkFirstQuater/MetodsForProgramm/Metods.cs /
 
 
-Програм а расположена по пути:
+Програма расположена по пути:
 
 FFinal_Work_First_Quater/FinalWorkFirstQuater/FinalWorkFirstQuater/Program.cs /
 
